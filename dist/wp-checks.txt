@@ -1,0 +1,14 @@
+画像参照数: 53件
+<head>抽出: 92615 文字
+<body>処理後: 66391 文字
+CSS スコープ化: 完了 (#lp-party prefix)
+削除: <header class="site-header">, <footer class="site-footer">, <div class="float-cta">, <div class="contact-modal">
+
+--- 画像URL マッピング サンプル（最初5件）---
+  1. images/extra/276226_0.jpg  ->  https://retro-backpage.com/wp-content/uploads/2026/04/276226_0.jpg
+  2. images/extra/S__94887956.jpg  ->  https://retro-backpage.com/wp-content/uploads/2026/04/S__94887956.jpg
+  3. images/extra/live-add.jpg  ->  https://retro-backpage.com/wp-content/uploads/2026/04/live-add.jpg
+  4. images/extra/live-extra-01.jpg  ->  https://retro-backpage.com/wp-content/uploads/2026/04/live-extra-01.jpg
+  5. images/extra/live-extra-02.jpg  ->  https://retro-backpage.com/wp-content/uploads/2026/04/live-extra-02.jpg
+
+#lp-party の出現回数（body内）: 49
